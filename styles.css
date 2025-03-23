@@ -137,6 +137,17 @@ section p {
     margin: 0.5rem;
     text-align: center;
 }
+flag {
+    margin-top: 10px;
+    width: 30px;
+    height: auto;
+}
+
+.description {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+
 
 /* Call to Action Styles */
 .cta {
@@ -332,6 +343,6 @@ html {
 
 .screenshot-item p {
     margin-top: 10px;
-    font-size: 14px;
-    color: #555;
+    font-size: 1rem;
+    color: #333;
 }
