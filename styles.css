@@ -137,7 +137,7 @@ section p {
     margin: 0.5rem;
     text-align: center;
 }
-flag {
+.flag {
     margin-top: 10px;
     width: 30px;
     height: auto;
